@@ -2,6 +2,8 @@
 title: 你好hexo
 date: 2021-07-04 15:17:40
 tags:
+categories: 
+  - 日记
 ---
 # 1. 为什么写博客
 ## 1.1 blog是利己且利他的
